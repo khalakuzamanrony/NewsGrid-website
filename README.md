@@ -1,13 +1,15 @@
 ### Project Details
 
 > Project Name: **News Website** <br>
+> Project Description: A simple demo website that is made from the inspiration of a news website <br>
 > Language: **HTML, CSS** <br>
 > Developer: **[Khalekuzzaman Rony](https://www.linkedin.com/in/khalekuzzamanrony/)** <br>
 > Date: January 2024 <br>
 > Live Link: _[https://newsgridweb101.netlify.app](https://newsgridweb101.netlify.app)_ <br>
-> 
+>
+`_**> N.B: This is not real-world project rather this is a simple personal-project**_`
 
-### **Screenshoots**
+### **Screenshots**
 
 > HomePage
 
